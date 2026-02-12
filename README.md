@@ -1,13 +1,13 @@
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWs4dHdueGd0MmdqdmNubWc4bGMxaG04OWMyb3lydXUwaG1vaXF2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/N0TtscnTopHCY99WkL/giphy.gif" width="100"/>
   <div id="badges">
-  <a href="your-Telegram-URL">
+  <a href="http://t.me/@stopdagrid">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.youtube.com/channel/UC7FJLljT0A1raXa3-imfFFQ">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-instagram-URL">
+  <a href="https://www.instagram.com/maketysm/">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>

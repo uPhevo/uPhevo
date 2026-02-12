@@ -18,7 +18,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajVqcnk5cXFzZGhwN29ha3I5cWN5Z3R2azljMnl6emw0cHcyNW91dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iBdOgmBjwODnxCrNGu/giphy.gif" width="600" height="300"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHYwZ3N6aDlwcnhrdmh1eWl5Nzc3dDNmNmRlcDJnYTQxbmY1bXU2ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohhwg3O1TGRXHQYh2/giphy.gif" width="600" height="300"/>
 </div>
 
 About Me -
